@@ -1,0 +1,27 @@
+[
+  {
+    "english": "or",
+    "ukrainian": "чи, або",
+    "tag": "ukrainian-english"
+  },
+  {
+    "english": "only",
+    "ukrainian": "тільки",
+    "tag": "ukrainian-english"
+  },
+  {
+    "english": "I have ...(something)/I don't have ...(something)",
+    "ukrainian": "у мене є ...(щось)/у мене не має ...(чогось)",
+    "tag": "ukrainian-english"
+  },
+  {
+    "english": "almost like",
+    "ukrainian": "майже як",
+    "tag": "ukrainian-english"
+  },
+  {
+    "english": "also, too",
+    "ukrainian": "також, теж",
+    "tag": "ukrainian-english"
+  }
+]
